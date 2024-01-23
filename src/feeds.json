@@ -1,6 +1,7 @@
 {
   "feeds": [
     "https://hnrss.org/frontpage?points=10&comments=5&count=35"
+    "https://rsshub.app/aicaijing/latest"
   ],
   "blogs": [
     "https://xeiaso.net/blog.rss",
